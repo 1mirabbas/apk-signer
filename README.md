@@ -25,7 +25,7 @@ Make sure you have the following tools installed:
 
 ```bash
 chmod 777 signing.sh
-./signing.sh unsigned_tg.apk testtest
+./signing.sh example.apk testtest
 ```
 
 ## What the Script Does
