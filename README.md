@@ -24,6 +24,7 @@ Make sure you have the following tools installed:
 ### Example
 
 ```bash
+chmod 777 signing.sh
 ./signing.sh unsigned_tg.apk testtest
 ```
 
